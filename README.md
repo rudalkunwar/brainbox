@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# BrainBox
+
+BrainBox is an interactive online quiz application built with Next.js, designed to enhance learning and knowledge retention. With a user-friendly interface, BrainBox provides a platform for users to create, take, and share quizzes on various topics. Whether you’re preparing for an exam or just want to challenge your friends, BrainBox makes learning fun and engaging.
+
+## Features
+
+- **User Authentication**: Secure sign-up and login functionality.
+- **Create Quizzes**: Users can create their own quizzes with multiple-choice questions.
+- **Take Quizzes**: Users can participate in quizzes and see their scores.
+- **Leaderboard**: Track scores and compare with friends to promote friendly competition.
+- **Responsive Design**: Fully responsive interface for an optimal experience on all devices.
+- **API Integration**: Utilize various APIs to fetch quiz questions or related content.
+
+## Technologies Used
+
+- **Frontend**: Next.js, React, Vite
+- **Backend**: Node.js, Express.js (if applicable)
+- **Database**: MongoDB / PostgreSQL / Firebase (specify what you are using)
+- **Authentication**: JWT / OAuth (specify the method used)
+- **Hosting**: Vercel / Heroku / Netlify (specify the hosting provider)
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Make sure you have the following installed on your machine:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Node.js (v14 or higher)
+- npm or Yarn
+- A code editor (e.g., Visual Studio Code)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/brainbox.git
