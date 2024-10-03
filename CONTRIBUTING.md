@@ -8,7 +8,7 @@ Welcome, brilliant minds! We're thrilled you're interested in contributing to Br
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/brainbox.git
+   git clone https://github.com/rudalkunwar/brainbox.git
    cd brainbox
    ```
 
