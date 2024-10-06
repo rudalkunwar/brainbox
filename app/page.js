@@ -1,7 +1,12 @@
 import React from "react";
+import Home from "./home/page";
 
 function page() {
-  return <div className="bg-blue-400">Heyy</div>;
+  return (
+    <>
+      <Home />
+    </>
+  );
 }
 
 export default page;
